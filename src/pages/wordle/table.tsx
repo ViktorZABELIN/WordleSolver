@@ -2,6 +2,9 @@
 
 import { WInPlace } from "./wInPlace";
 
-export function Table(){
-    <WInPlace/>
+export function Table() {
+    return (
+        <WInPlace />
+    )
+
 }
