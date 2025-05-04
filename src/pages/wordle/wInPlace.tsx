@@ -1,4 +1,6 @@
-
+type Props = {
+    value: string;
+}
 
 
 export function WInPlace() {
