@@ -5,7 +5,6 @@ import { Home } from './pages/home/home';
 import { Wordle } from './pages/wordle/wordle';
 import { Hints } from './pages/hints/hints';
 
-
 let router = createBrowserRouter([
   {
     path: "/",
